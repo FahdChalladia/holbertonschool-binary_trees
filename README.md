@@ -7,7 +7,9 @@ This repository contains several tasks demonstrating the implementation and mani
 Each task is implemented in its own C file, focusing on a specific operation on a `binary_tree_s` structure.
 
 - `0-binary_tree_node.c` :
-  Function that creates a binary tree node
+  Function that creates a binary tree node.
+- `2-binary_tree_insert_right.c` 
+  Function that inserts a node as the right-child of another node.
 
 
 ### Creator:
